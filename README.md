@@ -1,4 +1,4 @@
-# ACM recruitment repository for Adish
+# ACM recruitment process repository of Adish
 
 My name is *Adish Koshy Kiron*
 
