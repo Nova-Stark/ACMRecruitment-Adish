@@ -16,4 +16,3 @@ def main(text:str)->None:
     
     for i,j in sorted(d.items(),key=lambda x: x[1],reverse=True):
         print(f'{i} -> {j}')
-    
