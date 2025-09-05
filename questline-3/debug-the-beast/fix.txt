@@ -1,0 +1,11 @@
+line 20:
+unused integer from user input.
+commented it !
+
+line 4:
+converted list to set , to avoid duplicates
+
+line 6- 7:
+checking if the set got atleast 2 elements ,
+else return None.
+
